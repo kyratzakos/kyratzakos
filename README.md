@@ -5,12 +5,8 @@ I’m a software developer who spends way too much time wiring up APIs, wrestlin
 ---
 
 ### 🔧 Toolbox of Choice
-- TypeScript / JavaScript (my natural habitat)
-- Python (for bots, data pipelines, and random experiments)
-- MongoDB, 🟥 Redshift, 🐘 PostgreSQL
-- AWS wizardry (Lambda, S3, EC2, IAM, Quicksight, etc.)
-- Automation magic: Zapier, Pipedream, Retool, HubSpot APIs
-- GitHub Actions (branch cleanup, release bots, Discord alerts)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 
 ---
 
@@ -41,18 +37,3 @@ I’m a software developer who spends way too much time wiring up APIs, wrestlin
 - 🐙 Check my repos (spoiler: some are experiments, some are chaos).
 - 🕶️ LinkedIn: Drop me a DM
 - ✉️ Open to collabs if it’s fun, challenging, or a little bit absurd.
-
-<!--
-**kyratzakos/kyratzakos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
